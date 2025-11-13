@@ -97,6 +97,22 @@ export const projects = [
       { id: 4, name: "Tailwind CSS" },
     ],
   },
+  {
+    id: 5,
+    name: "Minimal Laundry Landing Page",
+    description:
+      "A sleek, minimalistic Laundry Landing Page built with Next.js, Tailwind CSS, Framer Motion and Gsap, Distraction-free layout with smooth animations and responsive design.",
+    href: "",
+    image: "/assets/projects/laundry-landing.png",
+    bgImage: "/assets/backgrounds/poster.jpg",
+    frameworks: [
+      { id: 1, name: "React" },
+      { id: 2, name: "Next.JS" },
+      { id: 3, name: "Gsap" },
+      { id: 4, name: "Tailwind CSS" },
+      { id: 5, name: "Framer Motion" },
+    ],
+  },
 ];
 export const socials = [
   { name: "Instagram", href: "https://www.instagram.com/krutarth__chauhan_" },

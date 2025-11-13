@@ -43,7 +43,7 @@ const ContactSummary = () => {
           "Let&apos;s build a <br />
           <span className="font-normal">memorable</span> &{" "}
           <span className="italic">inspiring</span> <br />
-          web application <span className="text-gold">togather</span>"
+          web application <span className="text-gold">together</span>"
         </p>
       </div>
       <Marquee
